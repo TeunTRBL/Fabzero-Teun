@@ -20,4 +20,6 @@ images:
 
 # Album Images
 
+![Foto Teun]({{site.baseurl}}OneDrive/Documents/GitHub/Fabzero-Teun/assets/20200715_213159.jpg)
+
 {% include album.liquid data=page.images %}
