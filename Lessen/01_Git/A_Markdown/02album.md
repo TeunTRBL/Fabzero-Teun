@@ -20,6 +20,6 @@ images:
 
 # Album Images
 
-![Foto Teun]({{site.baseur1}}/assets/20200715_213159.jpg)
+![Foto Teun]({{site.baseurl}}/assets/20200715_213159.jpg)
 
 {% include album.liquid data=page.images %}
