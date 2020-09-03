@@ -6,9 +6,9 @@ Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
 ## Wie ben ik?
 
 Mijn naam is Teun Van de Voorde!
-Ik zoon in België en ik ben 17 jaar oud!
+Ik woon in België en ik ben 17 jaar oud!
 
-![Foto Teun]({{ site.baseurl }}/assets/foto1.jpg)
+![Foto Teun]({{site.baseurl}}/assets/foto1.jpg)
 
 ## Wat is de bedoeling?
 
