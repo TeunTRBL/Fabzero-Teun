@@ -35,6 +35,6 @@
 
 ## Fab-Zero?
     
-  * Mijn doel is om een behuizing te ontwerpen die gemakkelijk te dupliceren,  stevig en relatief goedkoop is, maar er natuurlijk ook mooi uitziet!
+  * Mijn doel is om een behuizing te ontwerpen die **gemakkelijk te dupliceren,  stevig en relatief goedkoop is**, maar er natuurlijk ook **mooi uitziet**!
 
   * 3d-printen? 	-> Afmetingen ongv. 44x25x17mm?
