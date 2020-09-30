@@ -2,16 +2,16 @@
 
 ## Battery Powered Pro-audio Amplifier.
 
-    * Wat is een Pro-audio amplifier?
-      Een versterker versterkt signalen. In het geval van een geluidsversterker gaat dit over de omzetting van bijvoorbeeld, het signaal dat van een microfoon komt, naar een signaal dat het diafragma van een luidspreker kan laten bewegen.
+* Wat is een Pro-audio amplifier?
+  Een versterker versterkt signalen. In het geval van een geluidsversterker gaat dit over de omzetting van bijvoorbeeld, het signaal dat van een microfoon komt, naar een signaal   dat het diafragma van een luidspreker kan laten bewegen.
 
-      Het Pro-audio aspect slaat terug op de gebruiksomgeving.
-      (Buitenomgeving; warme temperaturen; hoog rendement/vermogen; schokken en trillingen)
+  Het Pro-audio aspect slaat terug op de gebruiksomgeving.
+  (Buitenomgeving; warme temperaturen; hoog rendement/vermogen; schokken en trillingen)
 
 
-    * Waarom Batterij?
+* Waarom Batterij?
 
-      Vaak vind ik mezelf in situaties waar er geen netstroom aanwezig is, maar er toch langdurig versterkt geluid moet zijn.
+  Vaak vind ik mezelf in situaties waar er geen netstroom aanwezig is, maar er toch langdurig versterkt geluid moet zijn.
 
 ## DIY?
 
