@@ -8,7 +8,7 @@ Opdracht: Gebruik Git om verslag bij te houden van je vooruitgang.
 Mijn naam is **Teun Van de Voorde**!
 Ik woon in België en ben 17 jaar oud!
 
-![Foto Teun](/assets/foto1.jpg)
+![Foto Teun](/foto1.jpg)
 
 ## Wat is de bedoeling?
 
@@ -17,7 +17,6 @@ Tijdens deze opleiding is het de bedoeling om allerlei fabricatieprocessen te le
 
 Meer info vind je [hier](https://ingegnomakerspace.github.io/inclusievekets/services/FabZero/)!
 
-## Waarom volg ik deze opleiding?
 
 
 
