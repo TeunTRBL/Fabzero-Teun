@@ -15,26 +15,26 @@
 
 ## DIY?
 
-      Ik heb al vaker individuele luidsprekers actief en batterijgevoed gemaakt, maar het telkens herontwerpen neem vrij veel tijd in beslag.
-      Ik ging op zoek naar een afgewerkt product die al mijn criteria af tikte, maar kwam tot de conclusie dat dit nog niet bestond.
+   Ik heb al vaker individuele luidsprekers actief en batterijgevoed gemaakt, maar het telkens herontwerpen neem vrij veel tijd in beslag.
+   Ik ging op zoek naar een afgewerkt product die al mijn criteria af tikte, maar kwam tot de conclusie dat dit nog niet bestond.
 
 
 ## Criteria:
 
-      * Batterijleven > 12u 	->	Zo efficient mogelijk!
-      * Vermogen > 70w RMS / Kanaal
-      * Stereo
-      * Speakon Uit
-      * XLR in
-      * Aux in
-      * Mic Preamp + GAIN
-      * Mixer
-      * Bass Enhancement
-      * Limiter!
+  * Batterijleven > 12u 	->	Zo efficient mogelijk!
+  * Vermogen > 70w RMS / Kanaal
+  * Stereo
+  * Speakon Uit
+  * XLR in
+  * Aux in
+  * Mic Preamp + GAIN
+  * Mixer
+  * Bass Enhancement
+  * Limiter!
 
 
 ## Fab-Zero?
     
-    * Mijn doel is om een behuizing te ontwerpen die gemakkelijk te dupliceren,  stevig en relatief goedkoop is, maar er natuurlijk ook mooi uitziet!
+  * Mijn doel is om een behuizing te ontwerpen die gemakkelijk te dupliceren,  stevig en relatief goedkoop is, maar er natuurlijk ook mooi uitziet!
 
-    * 3d-printen? 	-> Afmetingen ongv. 44x25x17mm?
+  * 3d-printen? 	-> Afmetingen ongv. 44x25x17mm?
