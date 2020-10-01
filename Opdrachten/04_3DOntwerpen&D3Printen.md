@@ -4,5 +4,5 @@ We leerden ook werken met Tinkercad en Onshape.
 
 ## Hands-on
 We speelden zelf handmatig voor d3-printer, en bouwden iets op uit laagjes.
-!(Template){/BoomTemp.jpg}
-!(KartonBoom){/Boom.jpg}
+![Template](/BoomTemp.jpg)
+![KartonBoom](/Boom.jpg)
